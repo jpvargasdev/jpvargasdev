@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Juan Vargas, a **Full Stack Developer** (specializing in **Mobile and Web Applications**), **Entrepeneur** [**Routte**](https://routte.co/) at [**Routte.co**](https://www.routte.co) and a **Writer** [**Artgrama**](https://www.sae.org/publications/technical-papers/content/2022-01-5058/) at [**Artgrama App**](https://play.google.com/store/apps/details?id=com.thelastclown.artgrama_app&hl=es_419&gl=US)
+🎓 I am Juan Vargas, a **Full Stack Developer**, **Entrepeneur** [**Routte**](https://routte.co/) at [**Routte.co**](https://www.routte.co) and a **Writer** [**Artgrama**](https://www.sae.org/publications/technical-papers/content/2022-01-5058/) at [**Artgrama App**](https://play.google.com/store/apps/details?id=com.thelastclown.artgrama_app&hl=es_419&gl=US)
 
 ## 🔗 Links
 
