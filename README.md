@@ -7,6 +7,6 @@
 
 ## 🔗 Links
 
-[![portfolio](https://jpvargasdev.github.io/profile/)
+[![portfolio](https://img.shields.io/badge/Portfolio-007755?style=for-the-badge&logo=Portfolio&logoColor=white)(https://jpvargasdev.github.io/profile/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jp-vargasm/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/jpvargasdev)
